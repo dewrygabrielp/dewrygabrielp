@@ -1,5 +1,8 @@
-### Hi there 👋
+### Welcome to my profile! :P 👋
 
+👋Hello! I am Gabriel and I love the infinite world of programming and learning about new technologies, I invite you to remain attentive to my weekly projects ¡of your interest!
+
+<img src="/documents/freelance_logo.png" alt="good logo for freelance!"/>
 <!--
 **dewrygabrielp/dewrygabrielp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
