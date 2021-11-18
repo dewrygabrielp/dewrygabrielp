@@ -2,9 +2,7 @@
 
 ### Welcome to my profile! :P 👋
 
-👋Hello! I am Gabriel and I love the infinite world of programming and learning about new technologies, I invite you to stay tuned to my weekly deliverables of your interest!
-<img width="250" height="250" src="https://cdn.dribbble.com/users/1304441/screenshots/3659805/freelance_logo_dribbble.png?compress=1&resize=800x600" alt="My cool logo"/>
-<!-- 
+👋Hello! I am D. Peña
 **dewrygabrielp/dewrygabrielp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
