@@ -21,14 +21,12 @@ Here are some ideas to get you started:
   const thai = {'
   pronouns: "he" | "him",
   code: [C#, Javascript,  HTML, CSS],
-  tools: [React, Redux, Node, React-Native],
+  tools: [postman, crystal reports, SQL Server, Oracle, .NetCore, MVC, Asp.Net
   architecture: ["layered pattern", "Client-server pattern", "Master-slave pattern"],
   techCommunities: {
                         linkedin: "https://www.linkedin.com/in/dewry-gabriel-pe%C3%B1a-valdez-6ab41a200/",
                         
                       },
     ```
- challenge: "I am doing upload projects week after week
- #codeallday"
- }
+
 ```
