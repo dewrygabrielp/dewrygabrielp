@@ -20,12 +20,12 @@ Here are some ideas to get you started:
 ```
   const thai = {'
   pronouns: "he" | "him",
-  code: [C#, Javascript,  HTML, CSS],
-  tools: [postman, crystal reports, SQL Server, Oracle, .NetCore, MVC, Asp.Net
-  architecture: ["layered pattern", "Client-server pattern", "Master-slave pattern"],
+  code: [C#, Javascript,  Python, SQL,
+  tools: [postman, SQL Server, Oracle, .NetCore, MVC, Asp.Net, AWS
+  architecture: ["DDD", "MicroServices", "Event", "Clean Code"],
   techCommunities: {
                         linkedin: "https://www.linkedin.com/in/dewry-gabriel-pe%C3%B1a-valdez-6ab41a200/",
-                        
+                        Site web: dewrysoft.com
                       },
     ```
 
