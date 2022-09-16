@@ -3,9 +3,6 @@
 ###  👋 Hello! I am Dewry Peña 👋
 
 
-**dewrygabrielp/dewrygabrielp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I am currently working on different languages ​​already mentioned in my description and tools
 .
