@@ -2,7 +2,7 @@
 
 ### Welcome to my profile! :P 👋
 
-👋Hello! I am D. Peña
+👋Hello! I am Dewry Peña
 **dewrygabrielp/dewrygabrielp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
