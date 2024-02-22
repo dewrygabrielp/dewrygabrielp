@@ -1,20 +1,20 @@
 
 
-###  👋 Hello! I am Dewry Peña 👋
+###  👋 Hello! I am DEV Dewry Gabriel
 
 
 
-- 🔭 I am currently working on different languages ​​already mentioned in my description and tools
+- 🔭 I am currently working in different areas of technology.
 .
 - 🌱 I am currently learning different daily trainings studying in depth my tools of interest.
 
 - 🤔 I'm looking for help with more information, script, documentation, technology topic subscriptions and anything else that you think is relevant to our continuous learning :)
 
-- 💬 Ask me about Soft, goals, the future of technology, social dilemmas such as the advancement of AI and unemployment, war and technology, automation of everyday entities, I think they are topics of interest in the objective of this career.
+- 💬 Ask me about web development, cybersecurity, cloud computing, artificial intelligence, and data science.
 
-- 📫 How to reach me: Email: dewrygabrielp@gmail.com, LinkedIn: https://www.linkedin.com/in/dewrygabrielp/ SiteWeb: https://dewrysoft.com WhatsApp: +1(849)-276-3370
+- 📫 How to reach me: LinkedIn: https://www.linkedin.com/in/dewrygabrielp
 
-- ⚡ Fun fact: live as if you were to die tomorrow and learn as if you were to live forever.
+- ⚡ Fun fact: There is only today, live it happy.
 -->
 ### a little more about me
 ```
@@ -24,9 +24,9 @@
   tools: [postman, SQL Server, Oracle, .NetCore, MVC, Asp.Net, AWS
   architecture: ["DDD", "MicroServices", "Event", "Clean Code"],
   techCommunities: {
-                        dewrygabrielp@gmail.com
-                        linkedin: "https://www.linkedin.com/in/dewry-gabriel-pe%C3%B1a-valdez-6ab41a200/",
-                        Site web: dewrysoft.com
+                        
+                        linkedin: "https://www.linkedin.com/in/dewrygabrielp"
+                        
                       },
     ```
 
